@@ -28,7 +28,7 @@ if flag:
     print("-----------")
     print(f"Total price: {total_price:.2f}$")
 
-# 50/100
+# 100/100
 
 
 # 1050
