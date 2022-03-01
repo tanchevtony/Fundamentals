@@ -1,3 +1,3 @@
 # Fundamentals
 
-Fundamentals Pyton course
+Python Fundamentals course
